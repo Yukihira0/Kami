@@ -16,15 +16,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FurkanGod/SorguPaneli/issues"
-  },
-  "homepage": "https://github.com/liiuqa/FurkanGod/SorguPaneli#readme",
-  "dependencies": {
-    "chalk": "^5.2.0",
-    "chlak": "0.0.1-security",
-    "cli-spinners": "^2.7.0",
-    "cli-table3": "^0.6.3",
-    "mysql": "^2.18.1",
-    "mysql2": "^3.2.0",
-    "ora": "^6.3.0"
   }
 }
