@@ -1,7 +1,7 @@
 {
-  "name": "familychecker",
+  "name": "kami checker",
   "version": "1.0.0",
-  "description": "Türkiye family inquiry application",
+  "description": "Kami checker",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,9 +12,9 @@
     "type": "git",
     "url": "https://github.com/Yukihira0/Kami.git"
   },
-  "author": "FurkanGod",
-  "license": "MIT",
+  "author": "Kami",
+  "license": "GardenV1941",
   "bugs": {
-    "url": "https://github.com/FurkanGod/SorguPaneli/issues"
+    "url": "https://discord.gg/zKpsrghxrU"
   }
 }
